@@ -1,6 +1,7 @@
 # LetsDefend-SOC326-Impersonating-Domain-MX-Record-Change-Analysis
 LetsDefend SOC326 - Impersonating Domain MX Record Change Detected
-# LetsDefend: SOC326 - Impersonating Domain MX Record Change Detected
+
+## LetsDefend: SOC326 - Impersonating Domain MX Record Change Detected
 
 Hey everyone! In this write-up, I will walk you through my analysis of a Medium severity ThreatIntel alert on LetsDefend involving a typosquatted domain, malicious MX record changes, and an interactive phishing campaign that led to a host compromise.
 
